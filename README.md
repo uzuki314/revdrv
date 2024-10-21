@@ -19,6 +19,9 @@ Make sure insmod first
 `make load` or `sudo insmod revdrv.ko`
 then run `./reverse.sh`
 
+## Screenshot
+![Screenshot](https://raw.githubusercontent.com/uzuki314/revdrv/refs/heads/main/screenshot.png?token=GHSAT0AAAAAACYXLFLFYBZRKOHMUOROW352ZYWBYGA)
+
 ## References
 * [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 * [Writing a simple device driver](https://www.apriorit.com/dev-blog/195-simple-driver-for-linux-os)
