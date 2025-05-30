@@ -20,7 +20,7 @@ Make sure insmod first
 then run `./reverse.sh`
 
 ## Screenshot
-![Screenshot](https://raw.githubusercontent.com/uzuki314/revdrv/refs/heads/main/screenshot.png?token=GHSAT0AAAAAACYXLFLFYBZRKOHMUOROW352ZYWBYGA)
+![Screenshot](https://raw.githubusercontent.com/uzuki314/revdrv/refs/heads/main/screenshot.png)
 
 ## References
 * [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
